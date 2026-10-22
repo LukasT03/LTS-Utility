@@ -1,0 +1,37 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>LTS Utility</title>
+        <item>
+            <title>1.2.3</title>
+            <pubDate>Tue, 06 Jan 2026 19:38:44 +0100</pubDate>
+            <sparkle:version>123</sparkle:version>
+            <sparkle:shortVersionString>1.2.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://respooler.lts-design.com/Apps/Utility-Updates/LTS-Utility-1.2.3.zip" length="11327542" type="application/octet-stream" sparkle:edSignature="mFaJIQzB+iwrjK+4rNY8/1j2xAPD5HsQwEmK9LRb3R6n3Tzpl9rqlSOZ+r/3YwtB4FmCBrShaFuicde0RPYODw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://respooler.lts-design.com/Apps/Utility-Updates/LTS%20Utility123-122.delta" sparkle:deltaFrom="122" length="19066" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="858560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gsd2j2PtNbvym+LXp0ap+b/F2kz+Nay+LRiWTc7bFcOgLJl/qZ6ZOX7qNUVNOylhcREPBeMct3I0HEDoLwyhAQ=="/>
+                <enclosure url="https://respooler.lts-design.com/Apps/Utility-Updates/LTS%20Utility123-121.delta" sparkle:deltaFrom="121" length="39878" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="858560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="21IMUzgTpT42Hk/rnz9NyspP2pY/tBo1Vu30gvKGEXHpOsKVjhJzgY5mFyGoucsup9CelgcAAkTFIaaqKrU4Dg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.2.2</title>
+            <pubDate>Sun, 04 Jan 2026 19:36:07 +0100</pubDate>
+            <sparkle:version>122</sparkle:version>
+            <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://download.lts-design.com/Apps/Utility-Updates/LTS-Utility-1.2.2.zip" length="11327541" type="application/octet-stream" sparkle:edSignature="GjfknAiFC17IPbE38//AlfykwVP8sRQXKGUd6hdtq6scG/P6tto5V9C04DpmGKsYoVwVyBpbs1/SiDL7IjWXAg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://download.lts-design.com/Apps/Utility-Updates/LTS%20Utility122-121.delta" sparkle:deltaFrom="121" length="36370" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="858560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="digm30T4VB2LK16bTzTcNbw4EWRDRyh1Qc1jyCgVVwzOA4n2Q0G77pH/wrTBgikQ4aSaMf5DrjZ8rkYzxokEAA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.2.1</title>
+            <pubDate>Sun, 04 Jan 2026 18:45:39 +0100</pubDate>
+            <sparkle:version>121</sparkle:version>
+            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://download.lts-design.com/Apps/Utility-Updates/LTS-Utility-1.2.1.zip" length="11327220" type="application/octet-stream" sparkle:edSignature="Fg3QT04cIyrimSAl0rsXaBzhyUIilXEZ/UsKMh458Pu0fdOkndtllCHGAb4xzmd7tLpLQNYuiPJ/yfsuB+txCQ=="/>
+        </item>
+    </channel>
+</rss>

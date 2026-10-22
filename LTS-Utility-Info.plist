@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict/>
+	</array>
+	<key>SUFeedURL</key>
+	<string>https://respooler.lts-design.com/Apps/Utility-Updates/appcast.xml</string>
+	<key>SUPublicEDKey</key>
+	<string>VoJuNtSD9z2RP13nGIH0M5BvzxOOGPUOYPjO+AeXEKw=</string>
+</dict>
+</plist>
