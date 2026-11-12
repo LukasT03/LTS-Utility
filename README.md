@@ -4,7 +4,7 @@ LTS Utility is the macOS companion app for the [LTS Respooler](https://github.co
 
 It's built with SwiftUI, uses [espflash](https://github.com/esp-rs/espflash) for flashing and [Sparkle](https://github.com/sparkle-project/Sparkle) for app updates. If you're on Windows or Linux, use the [web flasher](https://flash.lts-design.com) instead.
 
-➡️ Download [here](https://respooler.lts-design.com/Apps/LTS-Utility.zip)!
+➡️ Download [here](https://github.com/LukasT03/LTS-Utility/releases/latest/download/LTS-Utility.zip)!
 
 ## 📋 License
 
